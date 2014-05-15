@@ -1,7 +1,7 @@
 ﻿namespace Bjerner.LoremIpsum.Providers {
 
     /// <summary>
-    /// Cupcake flavored provider (based on http://www.cupcakeipsum.com/)
+    /// Cupcake flavoured provider (based on http://www.cupcakeipsum.com/)
     /// </summary>
     public class CupCakeProvider : Provider {
         

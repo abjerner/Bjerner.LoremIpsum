@@ -1,7 +1,7 @@
 ﻿namespace Bjerner.LoremIpsum.Providers {
 
     /// <summary>
-    /// Bacon flavored provider (based on http://baconipsum.com/)
+    /// Bacon flavoured provider (based on http://baconipsum.com/)
     /// </summary>
     public class BaconProvider : Provider {
         
