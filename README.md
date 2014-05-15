@@ -10,6 +10,8 @@ Based on the lorem ipsum generator from http://baconipsum.com/, this generator w
 
 #### Code Examples ####
 
+##### Lorem ipsum #####
+
 Generate five paragraphs with the default "Lorem ipsum..." flavor:
 
 ```C#
@@ -20,6 +22,8 @@ foreach (string str in generator.MakeParagraphs()) {
     Console.WriteLine();
 }
 ```
+
+##### Bacon #####
 
 Generate five paragraphs with "Bacon ipsum..." flavor:
 
@@ -32,6 +36,8 @@ foreach (string str in generator.MakeParagraphs()) {
 }
 ```
 
+##### Cupcake #####
+
 Generate five paragraphs with "Cupcake ipsum..." flavor:
 
 ```C#
@@ -42,6 +48,8 @@ foreach (string str in generator.MakeParagraphs()) {
     Console.WriteLine();
 }
 ```
+
+##### Umbraco #####
 
 Generate five paragraphs with "Umbraco ipsum..." flavor:
 
