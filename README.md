@@ -43,7 +43,7 @@ foreach (string str in generator.MakeParagraphs()) {
 }
 ```
 
-Generate five paragraphs with "Bacon ipsum..." flavor:
+Generate five paragraphs with "Umbraco ipsum..." flavor:
 
 ```C#
 LoremIpsumGenerator generator = new LoremIpsumGenerator(new UmbracoProvider());
